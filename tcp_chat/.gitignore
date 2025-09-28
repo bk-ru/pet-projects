@@ -1,0 +1,38 @@
+# ОС
+.DS_Store
+Thumbs.db
+
+# Qt Creator
+*.user
+*.user.*
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+
+# CMake
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Qt build artifacts
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.app
+
+# Qt Designer backup
+*~ 
+
+# Ninja
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Other
+*.log
+
+build*/

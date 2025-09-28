@@ -1,0 +1,1 @@
+crossentropy_method: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-GuYGNq1RjQ6kYoSSMgc2WpnFH_Ul9C6?usp=sharing)
