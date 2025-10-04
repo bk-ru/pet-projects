@@ -2,4 +2,4 @@
 
 | Название предмета | Описание | Стек и методы |
 | --- | --- | --- |
-| [Системы компьютерной математики](https://github.com/bk-ru/pet-projects/tree/main/university/image_processing) |  | OpenCV, NumPy, Matplotlib |  |
+| [Системы компьютерной математики](https://github.com/bk-ru/pet-projects/tree/main/university/image_processing) | Обработка изображений (свертка, фильтрация, бинаризация), обнаружение объектов (метод скользящего окна, выделение контуров), афинные преобразования, классификация объектов с элементами машинного обучения. | OpenCV, NumPy, Matplotlib |  |
