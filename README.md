@@ -6,9 +6,9 @@
 # Python
 | Тема проекта/Год | Название проекта | Описание | Стек и методы | Подробнее |
 | --- | --- | --- | --- | --- |
-| [Machine Learning Zoomcamp / 2025](./mlzoomcamp) | практический курс, чтобы создавать и внедрять системы машинного обучения. | Домашние задания |  NumPy, Matplotlib, Pandas, Seaborn  | [->Подробнее<-](https://github.com/DataTalksClub/machine-learning-zoomcamp) |
-| [ML training Yandex / 2025](./yandex-ml-4) | Четвертые ML тренировки Яндекса | Лекции + домашние задания | PyTorch, Gymnasium, NumPy, Matplotlib  | [->Подробнее<-](https://yandex.ru/yaintern/training) |
-| [University / 2025](./university) | Университет | Решения задач | OpenCV, NumPy, Matplotlib | [->Подробнее<-](https://github.com/Alexandre77777?tab=repositories) |
+| [Machine Learning Zoomcamp / 2025](./mlzoomcamp) | практический курс, чтобы создавать и внедрять системы машинного обучения. | Домашние задания |  NumPy, Matplotlib, Pandas, Seaborn  | [>Подробнее<](https://github.com/DataTalksClub/machine-learning-zoomcamp) |
+| [ML training Yandex / 2025](./yandex-ml-4) | Четвертые ML тренировки Яндекса | Лекции + домашние задания | PyTorch, Gymnasium, NumPy, Matplotlib  | [>Подробнее<](https://yandex.ru/yaintern/training) |
+| [University / 2025](./university) | Университет | Решения задач | OpenCV, NumPy, Matplotlib | [>Подробнее<](https://github.com/Alexandre77777?tab=repositories) |
 
 # C/C++
 | Тема проекта/Год | Название проекта | Описание | Стек и методы |
