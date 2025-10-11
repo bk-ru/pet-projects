@@ -6,7 +6,7 @@
 # Python
 | Тема проекта/Год | Название проекта | Описание | Стек и методы | Подробнее |
 | --- | --- | --- | --- | --- |
-| [Machine Learning Zoomcamp / 2025](./mlzoomcamp) | практический курс, чтобы создавать и внедрять системы машинного обучения. | Домашние задания |  NumPy, Matplotlib, Pandas, Seaborn  | [>Подробнее<](https://github.com/DataTalksClub/machine-learning-zoomcamp) |
+| [Machine Learning Zoomcamp / 2025](./mlzoomcamp) | Практический курс, чтобы создавать и внедрять системы машинного обучения. | Домашние задания |  NumPy, Matplotlib, Pandas, Seaborn  | [>Подробнее<](https://github.com/DataTalksClub/machine-learning-zoomcamp) |
 | [ML training Yandex / 2025](./yandex-ml-4) | Четвертые ML тренировки Яндекса | Лекции + домашние задания | PyTorch, Gymnasium, NumPy, Matplotlib  | [>Подробнее<](https://yandex.ru/yaintern/training) |
 | [University / 2025](./university) | Университет | Решения задач | OpenCV, NumPy, Matplotlib | [>Подробнее<](https://github.com/Alexandre77777?tab=repositories) |
 
@@ -20,7 +20,7 @@
 # Web
 | Тема проекта/Год | Название проекта | Описание | Стек и методы |
 | --- | --- | --- | --- |
-| [Frontend / 2025](https://github.com/bk-ru/sneakers-shop) | Интернет-магазин кроссовок | Cайт многостраничный сайт с каталогом товаров и корзиной. Реализована навигация по сайту, анимации и логика взаимодействия с товарами. | Vue |
+| [Frontend / 2025](https://github.com/bk-ru/sneakers-shop) | Интернет-магазин кроссовок | Многостраничный сайт с каталогом товаров и корзиной. Реализована навигация по сайту, анимации и логика взаимодействия с товарами. | Vue |
 
 ### Ссылки на резюме  
 - [резюме]()  
