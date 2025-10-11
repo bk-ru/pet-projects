@@ -25,3 +25,5 @@
 ### Ссылки на резюме  
 - [резюме]()  
 - [профиль на LinkedIn]() 
+
+<img src="./img/gif_pet_projects.gif" width="45%"/>
