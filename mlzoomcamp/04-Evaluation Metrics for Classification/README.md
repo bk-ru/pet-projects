@@ -1,1 +1,1 @@
-* 04-Evaluation Metrics for Classification: ![Open In Colab](https://colab.research.google.com/drive/1m4aQc9XXziOsB-dIJB97QOVyOuBFZ5xi?usp=drive_link)
+* 04-Evaluation Metrics for Classification: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m4aQc9XXziOsB-dIJB97QOVyOuBFZ5xi?usp=drive_link)
