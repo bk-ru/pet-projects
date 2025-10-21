@@ -12,4 +12,4 @@
 - **Module 1:** [Introduction to Machine Learning](./01-introduction/)
 - **Module 2:** [Machine Learning for Regression](./02-regression/)
 - **Module 3:** [Machine Learning for Classification/](./03-classification/)
-- **Module 4:** [Evaluation Metrics for Classification](./04-Evaluation Metrics for Classification/)
+- **Module 4:** [Evaluation_Metrics_for_Classification/](./04-Evaluation_Metrics_for_Classification/)
