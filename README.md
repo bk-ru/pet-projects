@@ -5,7 +5,7 @@
 # Python
 | Тема проекта/Год | Название проекта | Описание | Стек и методы | Подробнее |
 | --- | --- | --- | --- | --- |
-| [bkdetect / 2025](https://github.com/bk-ru/bkdetect) | Библиотека для поиска источников и совпадающих фрагментов текста. | Библиотека на Python для анализа текстовых коллекций, определения схожих документов и выделения совпадающих фрагментов. Поддерживает .txt, .csv, .docx, .html, потоковую индексацию и предобработку текста (NLTK). Опубликована на PyPI. | Python, scikit-learn, NLTK, BeautifulSoup, TF-IDF, cosine similarity, CLI | |
+| [bkdetect / 2025](https://github.com/bk-ru/bkdetect) | Библиотека для поиска источников и совпадающих фрагментов текста. | Библиотека на Python для анализа текстовых коллекций, определения схожих документов и выделения совпадающих фрагментов. Поддерживает .txt, .csv, .docx, .html, потоковую индексацию и предобработку текста (NLTK). Опубликована на PyPI. | Python, scikit-learn, NLTK, BeautifulSoup, TF-IDF, cosine similarity | |
 | [Discord Bot / 2025](https://github.com/bk-ru/discord_bot) | Discord-бот для виртуальной кафедры |  Автоматизирует отправку студенческих работ и их проверку преподавателями | Python, discord.py, Tortoise ORM, SQLite, Pandas | |
 | [Machine Learning Zoomcamp / 2025](./mlzoomcamp) | 4-месячный курс по основам машинного обучения: от регрессии и классификации до развёртывания и глубокого обучения | Домашние задания |  NumPy, Matplotlib, Pandas, Seaborn  | [>Подробнее<](https://github.com/DataTalksClub/machine-learning-zoomcamp) |
 | [ML training Yandex / 2025](./yandex-ml-4) | Четвертые ML тренировки Яндекса | Лекции + домашние задания | PyTorch, Gymnasium, NumPy, Matplotlib  | [>Подробнее<](https://yandex.ru/yaintern/training) |
