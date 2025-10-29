@@ -5,9 +5,9 @@
 # Python
 | Тема проекта/Год | Название проекта | Описание | Стек и методы | Подробнее |
 | --- | --- | --- | --- | --- |
-| [bkdetect / 2025](https://github.com/bk-ru/bkdetect) | Библиотека для поиска источников и совпадающих фрагментов текста. | CLI-и библиотека на Python для анализа текстовых коллекций, определения схожих документов и выделения совпадающих фрагментов. Поддерживает .txt, .csv, .docx, .html, потоковую индексацию и предобработку текста (NLTK). Публикуется на PyPI. | Python, scikit-learn, NLTK, BeautifulSoup, TF-IDF, cosine similarity, CLI | |
-| [Discord Bot / 2025](https://github.com/bk-ru/discord_bot) | Бот для управления учебными группами и лабораторными в Discord. | Discord-бот с ролями и базой данных, автоматизация приёма лабораторных, выдачи статусов и учёта успеваемости. Автонастройка каналов и логирование. | Python, discord.py, Tortoise ORM, SQLite, Pandas | |
-| [Machine Learning Zoomcamp / 2025](./mlzoomcamp) | Практический курс, чтобы создавать и внедрять системы машинного обучения. | Домашние задания |  NumPy, Matplotlib, Pandas, Seaborn  | [>Подробнее<](https://github.com/DataTalksClub/machine-learning-zoomcamp) |
+| [bkdetect / 2025](https://github.com/bk-ru/bkdetect) | Библиотека для поиска источников и совпадающих фрагментов текста. | Библиотека на Python для анализа текстовых коллекций, определения схожих документов и выделения совпадающих фрагментов. Поддерживает .txt, .csv, .docx, .html, потоковую индексацию и предобработку текста (NLTK). Опубликована на PyPI. | Python, scikit-learn, NLTK, BeautifulSoup, TF-IDF, cosine similarity, CLI | |
+| [Discord Bot / 2025](https://github.com/bk-ru/discord_bot) | Discord bot | Discord-бот для сервера виртуальной кафедры | Python, discord.py, Tortoise ORM, SQLite, Pandas | |
+| [Machine Learning Zoomcamp / 2025](./mlzoomcamp) | 4-месячный курс по основам машинного обучения: от регрессии и классификации до развёртывания и глубокого обучения | Домашние задания |  NumPy, Matplotlib, Pandas, Seaborn  | [>Подробнее<](https://github.com/DataTalksClub/machine-learning-zoomcamp) |
 | [ML training Yandex / 2025](./yandex-ml-4) | Четвертые ML тренировки Яндекса | Лекции + домашние задания | PyTorch, Gymnasium, NumPy, Matplotlib  | [>Подробнее<](https://yandex.ru/yaintern/training) |
 | [University / 2025](./university) | Университет | Решения задач | OpenCV, NumPy, Matplotlib | [>Подробнее<](https://github.com/Alexandre77777?tab=repositories) |
 
