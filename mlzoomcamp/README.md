@@ -13,3 +13,5 @@
 - **Module 2:** [Machine Learning for Regression](./02-regression/)
 - **Module 3:** [Machine Learning for Classification/](./03-classification/)
 - **Module 4:** [Evaluation_Metrics_for_Classification/](./04-Evaluation_Metrics_for_Classification/)
+- **Module 5:** [Deploying_Machine_Learning_Models/](./05-Deploying_Machine_Learning_Models/)
+- **Module 6:** [Decision_Trees_and_Ensemble_Learning/](./06-Decision_Trees_and_Ensemble_Learning/)
