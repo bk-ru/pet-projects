@@ -28,7 +28,7 @@
 | --- | --- | --- | --- |
 | [DLL and CLI](https://github.com/bk-ru/virus_scanner) | VirusScanner | Утилита для поиска вредоносных файлов разделенная на DLL и CLI. Сканер рекурсивно обходит директории, вычисляет MD5-хеши файлов и сравнивает их с базой данных, логируя найденные угрозы. | C++17, CMake, OpenSSL, GoogleTest |
 | [Client-Server](https://github.com/bk-ru/pet-projects/tree/main/tcp_chat) | Чат | Клиент-серверное приложение для обмена текстовыми сообщениями. Сервер поддерживает множественные подключения и авторизацию по UUID, а клиент обеспечивает обмен сообщениями и смену ID. | C++11, CMake, Qt, TCP/IP (QtNetwork), JSON |
-| [Calc](https://github.com/bk-ru/pet-projects/tree/main/calc) | Калькулятор | Калькулятор с базовыми арифметическими функциями, поддержкой клавиатуры. | C++11, CMake, Qt |
+| [Calc](https://github.com/bk-ru/pet-projects/tree/main/calc) | Калькулятор | Калькулятор с базовым функционалом. | C++11, CMake, Qt |
 
 # Web
 | Тема проекта | Название проекта | Описание | Стек и методы |
